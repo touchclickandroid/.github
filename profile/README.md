@@ -3,7 +3,7 @@
 ## TouchClick Android Project 📱
 
 Welcome to the **TouchClick Android Project**! We specialize in customizing the Android OS to deliver a clean **SAMSUNG look** completely free of bloatware. Additionally, we are dedicated to building **NOS**, a privacy-focused operating system.
-
+**GalaxyZorin101**, on the other hand, creates other **ROM's** like the upcoming **Evolution X** for the **Galaxy A51 4G**
 ---
 
 ### 🙋‍♀️ About the Project
