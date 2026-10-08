@@ -15,7 +15,7 @@ Welcome to the **TouchClick Android Project**! We specialize in customizing the 
 ### 🌈 Contribution Guidelines
 We love community involvement! Want to help us build, test, or design? 
 * **How to get involved:** It is simple! Just send a  Message to me on XDA.
-* **XDA Handle:** [@Code1022w](https://xdaforums.com/m/code1022w.13442179/) | [Galaxyzorin101](https://xdaforums.com/m/galaxyzorin101.13359190/)
+* **XDA Handle:** [@Code1022w](https://xdaforums.com/m/code1022w.13442179/) | [@GalaxyZorin101](https://xdaforums.com/m/galaxyzorin101.13359190/)
 
 ---
 
